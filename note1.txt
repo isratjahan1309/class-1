@@ -15,7 +15,7 @@
     <p><tr>Add your own text to turn a layout into your own custom website!</tr>
 <tr> Customize your text content and appearance, and easily add underlines, italics, spacing, and more.</tr></p>
     
-    <img src="F:\Webpage SS\isratjahanproject0\11.JPG" width="640px" height="auto">
+    <img src="F:\Webpage SS\isratjahanproject0\11.jpeg" width="640px" height="auto">
 </body>
 </html>
 </!doctype html>
